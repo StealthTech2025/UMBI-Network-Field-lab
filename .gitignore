@@ -1,0 +1,11 @@
+# local copies and save points
+fieldlab-backup.html
+savepoints/
+# saved progress (holds a student's name and scores)
+it-page-state.json
+*-state.json
+# test browser profiles and scratch output
+tests/chrome-profile*/
+__pycache__/
+drawing.png
+.it-tour-*
